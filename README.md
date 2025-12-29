@@ -3,9 +3,10 @@ Student spiral is a biggner friendly C program created to practice and understan
 
 This project focuses on *HANDLING student reated data.*
 USING
-:-LOOPS
-:-CONDITIONS
-:-BASIC LOGIC'S
+- FUNCTIONS
+- FILE HANDLING
+- CONDITIONS
+- BASIC LOGIC'S
 
 This project is part of my learning journey as BCA student and help strengthen my fundamentals in C programing.
 
@@ -14,17 +15,16 @@ This project is part of my learning journey as BCA student and help strengthen m
 - COMPILER: GCC/any standard C compiler
 
 ## FEATURES
-
-:Accepts student input
-:Display output in a clear form
-:Simple and readable logic
-:Well-commented code for easy understanding
+- Accepts student input
+- Display output in a clear form
+- Simple and readable logic
+- Well-commented code for easy understanding
 
 ## HOW TO RUN
-1:clone the reprository
+- clone the reprository
   git clone https://github.com/IsHa-2007/student-sphere.git
-2:open the .C file in C compiler
-3:Compile and run the program
+- open the .C file in C compiler
+- Compile and run the program
 
 ## PROJECT-SPIRAL/
 - student.c
