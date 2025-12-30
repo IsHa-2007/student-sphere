@@ -57,6 +57,7 @@ void addstudent(struct student s) {
    FILE *fp;   // File pointer
 
    // Open file in append mode (adds data without deleting old data)
+   // using "students.txt" as the file name
    fp = fopen("students.txt", "a");
 
    // Check if file opened successfully
@@ -65,10 +66,10 @@ void addstudent(struct student s) {
        return;
    }
 
-   // Write student data into the file
+   // Write student data into the file 
    fprintf(fp, "%d %s %s %d %.2f\n",
            s.roll_no, s.name, s.course, s.year, s.gpa);
 
-   // Close the file
+   // Close the file 
    fclose(fp);
 }
