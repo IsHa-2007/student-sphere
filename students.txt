@@ -2,3 +2,4 @@
 13 naman bca 1 9.90
 17 shyam bca 3 8.60
 18 kishan BCA 3 8.60
+19 ravi mca 9 0.90
