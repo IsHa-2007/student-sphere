@@ -14,6 +14,7 @@ struct student {
 /*
    Function declaration
    This function will save student data into a file
+   Takes a structure of type student as parameter
 */
 void addstudent(struct student s);
 
