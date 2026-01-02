@@ -3,5 +3,5 @@
 17 shyam bca 3 8.60
 18 kishan BCA 3 8.60
 19 ravi mca 9 0.90
-1412329544 ÷  1412329536 0.00
 20 kishan BCa 3 9.99
+25 ravya bca 3 9.90
