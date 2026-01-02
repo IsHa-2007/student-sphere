@@ -43,7 +43,7 @@ int main() {
     // Call function to save student data in file
     addstudent(s);
 
-    // Confirmation message
+    // Confirmation message after adding student
     printf("Student added successfully!\n");
 
     return 0;
