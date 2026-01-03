@@ -29,6 +29,7 @@ This project is part of my learning journey as BCA student and help strengthen m
 ## PROJECT-SPIRAL/
 - student.c
 - README.md
+- students.txt
 
 ## LEARNING OUTCOMES
 THROUGH THIS PROJECT I PRACTICED:
