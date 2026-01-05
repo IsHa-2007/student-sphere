@@ -18,6 +18,7 @@ This project is part of my learning journey as BCA student and help strengthen m
 - Accepts student input
 - Display output in a clear form
 - Simple and readable logic
+- save data in file
 - Well-commented code for easy understanding
 
 ## HOW TO RUN
